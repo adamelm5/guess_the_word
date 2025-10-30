@@ -26,8 +26,6 @@ To clean the project, type:
 make clean
 ```
 
-## Report
-
-A report is available [here](report.pdf) in french.
+## Game
 
 The program will ask you to chose between animals, countries and cities, Then it will show you few random letters and you have to guess the word.
